@@ -13,7 +13,7 @@ html, body {
 
 .greybox {
     background-color: #472c12; /* กล่องสีเทา */
-    height: 570px
+    height: auto
 }
 
 .greybox-text1 {color: beige;
