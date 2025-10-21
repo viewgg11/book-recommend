@@ -1,0 +1,83 @@
+.tabstyle {
+      font-weight: bold;
+    text-transform: uppercase;
+    color: black !important;
+}
+
+.tab-head {background-color: rgb(252, 240, 214);}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.greybox {
+    background-color: #472c12; /* กล่องสีเทา */
+    height: 570px
+}
+
+.greybox-text1 {color: beige;
+  font-size: 20;}
+ /* div, header,section {border: 2px solid purple;} */
+
+ .article-content { margin-left: 300px;
+  margin-right: 300px;
+  text-align: left;
+}
+ 
+.b1   {background-color: white; 
+              width: 70%; 
+              margin: auto; 
+              padding: 30px; 
+              border-radius: 10px; 
+              box-shadow: 0 2px 8px rgba(0,0,0,0.1)}
+
+.b2 {background-color: rgba(39, 19, 12, 0.671); 
+              width: 70%; 
+              margin: auto; 
+              padding: 30px; 
+              border-radius: 10px; 
+              box-shadow: 0 2px 8px rgba(0,0,0,0.1)}
+
+.beige {color: beige;}
+
+.footer {
+  background-color: #251b09;
+  height: 65px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+p { text-indent: 20;}
+
+h3 {padding-top: 20px;}
+
+  /* กล่อง Accordion ปรับขนาด */
+  #bookAccordion {
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background-color: #fff; /* สีพื้นหลัง */
+  }
+
+
+.book-link {
+     text-decoration: none !important;  /* เอาเส้นใต้ออก */
+    color: white;          /* สีตัวอักษร */
+}
+
+book-link-hover {
+    color: #ffe0b2;        /* สีเมื่อเอาเมาส์วางเหนือ (option) */
+}
+
+
+.playpen-thai {
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
